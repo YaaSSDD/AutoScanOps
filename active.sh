@@ -3,7 +3,6 @@
 #skkrtskkkrt
 ###
   ./installDependencies.sh
-  mv filebeat-pack
   cd docker-elk
   docker-compose up &
   cd ..
