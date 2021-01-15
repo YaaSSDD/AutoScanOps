@@ -34,8 +34,5 @@ IFS=$'\n\r'
     
   }
 
-  cd docker-elk
-  nohup docker-compose up &
-  cd ../
   ScanAir
   ./dYnamic_parser.sh
